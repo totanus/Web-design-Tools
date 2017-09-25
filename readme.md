@@ -15,3 +15,13 @@ With [Inception UI Kit](http://webdonut.net/inception.html) you can create websi
 #### Barba.Js
 [link](http://barbajs.org)
 Create badass, fluid and smooth transition between your website's pages.
+
+## Typography &amp; Fonts
+
+### Canva’s Ultimate Guide to Font Pairing
+[link](https://designschool.canva.com/blog/the-ultimate-guide-to-font-pairing/)
+
+## Icons
+
+### 40 Free High-Quality Line Icon Sets
+[link](https://www.webpagefx.com/blog/web-design/line-icons-free/)
